@@ -4,3 +4,13 @@
 *.jar
 *.war
 *.ear
+
+.idea/
+target/
+.idea_modules/
+.history
+out
+.DS_Store
+*.iws
+*.iml
+*lock.*
